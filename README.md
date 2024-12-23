@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Game (Player vs AI)
-# X-O-game-Ai-Project-
+# X-O-game-(Ai Project)
 
 This project is a graphical **Tic-Tac-Toe** game built using Python and the Pygame library. It features a player-versus-AI setup where the player (X) competes against an AI opponent (O) on a 3x3 grid.
 
